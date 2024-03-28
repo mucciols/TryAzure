@@ -7,6 +7,7 @@ namespace TryAzure.Controllers
     public class WeatherForecastController : ControllerBase
     {
         int ciao = 10;
+        int miao = 22;
 
         private static readonly string[] Summaries = new[]
         {
